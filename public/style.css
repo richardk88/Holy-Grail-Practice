@@ -14,7 +14,7 @@ nav {
 	background-color: red;
 	text-align: center;
 	font-size: 13px;
-	position: inline;
+	display: inline;
 }
 
 .box {
@@ -22,31 +22,31 @@ nav {
 	height: 500px;
 	background-color: grey;
 	text-align: center;
-	position:block;
+	display:block;
 }
 
 .box1 {
 	width: 200px;
 	height: 200px;
 	background-color: yellow;
-	position: inline-block;
+	display: inline-block;
 }
 
 .box2 {
 	width: 200px;
 	height: 200px;
 	background-color: brown;
-	position: inline-block;
+	display: inline-block;
 }
 .box3 {
 	width: 200px;
 	height: 200px;
 	background-color: purple;
-	position: inline-block;
+	display: inline-block;
 }
 .box4 {
 	width: 200px;
 	height: 200px;
 	background-color: orange;
-	position: inline-block;
+	display: inline-block;
 }
